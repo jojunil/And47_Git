@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("My first gitHub project");
         textView.setTextSize(24);
         textView.setTextColor(Color.RED);
+
     }
 }
